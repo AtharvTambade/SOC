@@ -5,7 +5,7 @@ Atharv Tambade | 210260057 | BTech 3rd Year Engineering Physics
 
 ## Numerical Methods in Computational Physics
 
-This involved implementation of some numerical techniques, like the [Euler](/https://github.com/AtharvTambade/SOC/blob/main/Euler_method.ipynb), Jacobi, Gauss-Seidel, Newton-Raphson, and Secant methods. This is illustrated in a [jupyter notebook](/Numerical%20Methods/Apurv_Numerical_Method.ipynb). There are also Fortran codes for these methods.
+This involved implementation of some numerical techniques, like the [Euler](/Euler_method.ipynb), Jacobi, Gauss-Seidel, Newton-Raphson, and Secant methods. This is illustrated in a [jupyter notebook](/Numerical%20Methods/Apurv_Numerical_Method.ipynb). There are also Fortran codes for these methods.
 
 ## Visualizing Poisson Equation Solutions
 
